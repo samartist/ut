@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<forum_post>
-  <header>
+<header>
     <image src="big_image.jpg" />
   </header>
   <section>
